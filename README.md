@@ -33,7 +33,7 @@ This Repository contains PW Skills SQL Assignments that I completed as part of m
 - Gained hands on experience in writing optimized and readable queries for data analysis tasks.
 ## How to Use
 - ### Clone this Repository
-- Git Clone: <https://github.com/hafsa-ali-data-analyst/pwskills-excel-assignments.git>
+- Git Clone: <https://github.com/hafsa-ali-data-analyst/pwskills-sql-assignments.git>
 - Open the SQL Assignments file in MySQL Workbench (It is recommended for better functionality).
  ## Author
  **Hafsa Ali**
